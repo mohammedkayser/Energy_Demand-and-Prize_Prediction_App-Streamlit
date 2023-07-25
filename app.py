@@ -81,7 +81,7 @@ if selected == "Energy Demand":
         # Display the predicted energy demand inside a box
         st.success(f"Predicted total load forecast (Energy Demand): {int(demand_prediction[0])}")
 
-elif selected == "Energy Price":
+elif selected == "Energy Prize":
     st.header("Energy Price Prediction")
 
     # Get user input for the independent variables using text boxes
