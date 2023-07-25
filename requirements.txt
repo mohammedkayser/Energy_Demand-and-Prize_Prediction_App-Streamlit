@@ -1,5 +1,5 @@
 streamlit
 pandas
 streamlit_option_menu
-sklearn.linear_model 
-sklearn.model_selection
+scikit-learn==0.24.2
+
